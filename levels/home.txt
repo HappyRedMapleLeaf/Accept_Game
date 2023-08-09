@@ -1,0 +1,22 @@
+#walls
+n0, 0, 640, 20
+n620, 0, 20, 480
+n0, 460, 640, 20
+n0, 100, 20, 380
+
+#bed, desk, bedside table
+n440, 240, 180, 220
+n20, 360, 180, 100
+n360, 390, 80, 70
+
+#drawer, sofa, bookshelf
+n420, 20, 70, 80
+n320, 20, 85, 90
+n20, 110, 30, 90
+
+#door, deskchair, beddesk
+t0, 20, 30, 80, physicscut
+t85, 310, 50, 50, schedule
+t360, 370, 80, 20, about
+
+p410, 270
